@@ -1,5 +1,5 @@
 # LogHandlingModule
-LH Module - With debugging. Runs in sub .3 seconds
+LH Module - With debugging. 
 # Simple Use - More detail coming soon
 ```pip install Simple-LogHandler```
 ```python
